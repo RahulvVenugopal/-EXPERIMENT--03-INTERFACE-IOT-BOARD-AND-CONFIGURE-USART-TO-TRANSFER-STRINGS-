@@ -53,7 +53,7 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 
   while (1)
   {
-	  printf("Rahul\n");
+	  printf("SAVEETHA ENGINEERING COLLEGE\n");
 	  HAL_Delay(1000);
   }
 PUTCHAR_PROTOTYPE
